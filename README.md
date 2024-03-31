@@ -57,7 +57,7 @@ python interpretador.py exemplo_programa.digas
 ```
 Entrada: 3
 ```
-Entrada: "odd"
+Saída: "odd"
 ```
 
 ## Licença
